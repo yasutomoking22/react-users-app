@@ -1,0 +1,4 @@
+templatesはレイアウトの情報を持つ
+今回は２種類
+  デフォルト： header+footer
+  ヘッダーのみ: header
